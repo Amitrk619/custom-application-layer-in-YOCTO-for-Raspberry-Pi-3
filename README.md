@@ -1,5 +1,4 @@
 # Custom application layer in YOCTO for RaspberryPi-3
-Adding custom application layer in YOCTO for Raspberry Pi 3
 
 Prerequisite:
 
