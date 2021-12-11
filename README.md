@@ -76,7 +76,7 @@ $ bitbake core-image-minimal-dev
 ![](https://i.postimg.cc/YSDCDRCw/6.png)
 
 Bitbake will take several hours to complete the build process. it depends on your internet speed and CPU performance. One big advantage of the Yocto Project is that it builds everything in stages and layers. If you make any changes (e.g. add a layer, change to a different image, tweak kernel settings), subsequent builds will take far less time. This speeds up development process when you are trying to add low-level support in Linux.
-Generated image present at the tmp/deploy/images/raspberrypi4-64/ directory.
+Generated image present at the tmp/deploy/images/raspberrypi3-64/ directory.
 
 
 # Flash SD card with generated image
