@@ -103,7 +103,9 @@ Initialize the build environment: source poky/oe-init-build-env build > /dev/nul
 
 Run the command 'bitbake-layers create-layer meta-custom' to create a new layer automatically
 
-Change directory and edit the example.bb file or create a new one example one is created automatically. meta-custom/recipes-example/example$ nano example_0.1.bb
+Change directory and edit the example.bb file or create a new one example one is created automatically. meta-custom/recipes-example/example
+
+$ nano example_0.1.bb
 
 ![](https://i.postimg.cc/FH45yB3B/10.png)
 
